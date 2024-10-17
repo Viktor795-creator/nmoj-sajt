@@ -10,8 +10,8 @@
 <body>
     <div class="container">
         <h1>Ime i Prezime</h1>
-        <img src="![2024091018441732](https://github.com/user-attachments/assets/e6b649f4-3522-4b03-89ca-ffc587bd01f6)
-" alt="Moja slika" class="profile-pic">
+        <img src="!tvoja-slika.jpg" alt="![Uploading Screenshot_20240910-192627.png…]()
+" class="profile-pic">
         <p class="profession">Gmail:viktordimitrov994@gmail.com</p>
         <p class="contact-info">Telefon: 0638803599</p>
         <div class="socials">
