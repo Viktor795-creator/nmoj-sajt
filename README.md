@@ -3,19 +3,20 @@
 <html lang="hr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Viktor Dimitrov" content="width=device-width, initial-scale=1.0">
     <title>Moj Lični Sajt</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
         <h1>Ime i Prezime</h1>
-        <img src="tvoja-slika.jpg" alt="Moja slika" class="profile-pic">
-        <p class="profession">Profesija: Web Developer</p>
-        <p class="contact-info">Telefon: 0123456789</p>
+        <img src="![2024091018441732](https://github.com/user-attachments/assets/e6b649f4-3522-4b03-89ca-ffc587bd01f6)
+" alt="Moja slika" class="profile-pic">
+        <p class="profession">Gmail:viktordimitrov994@gmail.com</p>
+        <p class="contact-info">Telefon: 0638803599</p>
         <div class="socials">
-            <a href="https://www.instagram.com/tvojprofil" target="_blank">Instagram</a>
-            <a href="https://discord.gg/tvoj-invite-link" target="_blank">Discord Server</a>
+            <a href="https://discord.gg/G2gRRqfNMm" target="_blank">Prvi dicord</a>
+            <a href="https://discord.gg/aEycKK8guy" target="_blank">Dugi discord Server</a>
         </div>
     </div>
 </body>
